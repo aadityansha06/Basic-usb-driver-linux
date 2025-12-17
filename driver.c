@@ -1,8 +1,4 @@
-/*
-A driver is just a special kind of kernel module that knows:
-- how to talk to a particular piece of hardware, and
-- how to translate user-space actions (like reading a file, or plugging in a USB) into hardware-level commands.
-*/
+// No AI is used in making of this Project ( if you think it's Ai generated due to emoji and formating ) it's your problem then , fuck u 
 
 // Refer learning.md or https://docs.kernel.org/driver-api/usb/usb.html
 
