@@ -1,4 +1,4 @@
-🧩 1. What you’re used to — User Space
+1. What you’re used to — User Space
 
 When you write a normal C program, like:
 
@@ -19,7 +19,7 @@ gcc hello.c -o hello
 You’re running a user-space program — something that runs on top of Linux, using system calls provided by the OS.
 You can use headers like <stdio.h>, <stdlib.h>, <string.h> — all part of the C standard library (glibc).
 
-🧠 2. What you’re doing now — Kernel Space
+2. What you’re doing now — Kernel Space
 
 The Linux kernel is the core part of the OS — it’s what talks directly to the hardware (CPU, USB, etc.).
 
@@ -70,7 +70,7 @@ Instead, it has two functions:
 
 
 ## Why no main ?
-⚙️ In the Linux kernel
+ In the Linux kernel
 
 Now imagine the Linux kernel itself — it’s a huge program that was already started a long time ago (when you booted the computer).
 
@@ -140,7 +140,7 @@ how to translate user-space actions (like clicking, reading a file, or plugging 
 
 
 
-## 🧠 What is MODULE_LICENSE, MODULE_AUTHOR, MODULE_DESCRIPTION, etc.?
+##  What is MODULE_LICENSE, MODULE_AUTHOR, MODULE_DESCRIPTION, etc.?
 
 These are metadata — information about your module that the kernel uses and that shows up in commands like modinfo.
 
