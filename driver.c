@@ -1,4 +1,4 @@
-// No AI is used in making of this Project ( if you think it's Ai generated due to emoji and formating ) it's your problem then , fuck u 
+
 
 // Refer learning.md or https://docs.kernel.org/driver-api/usb/usb.html
 
